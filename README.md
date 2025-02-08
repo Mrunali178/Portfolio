@@ -1,1 +1,1 @@
-It is a ersonal portfolio website
+It is a personal portfolio website
